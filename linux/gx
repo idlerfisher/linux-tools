@@ -1,0 +1,1 @@
+grep -rn --color "$2" $1

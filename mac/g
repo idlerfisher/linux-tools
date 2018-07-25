@@ -1,0 +1,1 @@
+grep -Rn --color "$1" ./*
